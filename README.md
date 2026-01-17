@@ -14,7 +14,24 @@ JKEF SpotBot ist ein Trading Bot für den 24/7 Betrieb – inklusive Web-Oberfl�
 ---
 
 ## 🖼️ Screenshots
-*(coming soon)*
+
+### Dashboard
+![Dashboard](assets/screenshots/dashboard.png)
+
+### Settings
+![Settings](assets/screenshots/settings.png)
+
+### Trade Log
+![Trade Log](assets/screenshots/trade_log.png)
+
+### Bot Log
+![Bot Log](assets/screenshots/bot_log.png)
+
+### Charts
+![Charts](assets/screenshots/charts.png)
+
+### Update
+![Update](assets/screenshots/update.png)
 
 ---
 
