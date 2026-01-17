@@ -41,7 +41,8 @@ JKEF SpotBot ist ein Trading Bot für den 24/7 Betrieb – inklusive Web-Oberfl�
 Aktuell gibt es **keinen öffentlichen Download**.
 
 ➡️ Wenn du den Bot testen möchtest, erstelle bitte eine Anfrage hier:  
-🔑 **[Testzugang anfragen (Discussions)](../../discussions/new?category=testzugang-anfragen)**
+🔑 **[Testzugang anfragen (Discussions)](../../discussions/new)**
+
 
 Bitte kurz dazuschreiben:
 - Plattform (Raspberry Pi / Linux / PC)
