@@ -1,6 +1,6 @@
 <img src="assets/banner.png" width="100%">
 # JKEF SpotBot 🚀
-**Automatisierter Spot-Trading Bot mit Dashboard & MQTT (Raspberry Pi ready)**
+**Automatisierter Spot-Trading Bot mit Dashboard (Raspberry Pi ready)**
 
 JKEF SpotBot ist ein Trading Bot für den 24/7 Betrieb – inklusive Web-Oberfläche, Monitoring und optionaler Smart-Home Integration (Home Assistant / MQTT).
 
