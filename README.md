@@ -1,3 +1,4 @@
+<img src="assets/ChatGPT%20image%2017.%20Jan.%202026,%2014_09_33.png" width="100%">
 # JKEF SpotBot 🚀
 **Automatisierter Spot-Trading Bot mit Dashboard & MQTT (Raspberry Pi ready)**
 
